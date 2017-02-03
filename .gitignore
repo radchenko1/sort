@@ -1,0 +1,6 @@
+# IDE settings
+.idea
+*.sublime-workspace
+*.sublime-project
+
+me.txt
